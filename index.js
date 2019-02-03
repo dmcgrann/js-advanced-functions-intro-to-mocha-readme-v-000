@@ -16,5 +16,5 @@ function favoriteIceCream(flavor) {
 
 function shouting() {
   var str = ''
-  return `str.toUpperCase()`;
+  return `${str.toUpperCase()}`;
 }
