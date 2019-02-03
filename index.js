@@ -5,3 +5,8 @@ function theTruth() {
 function sayHey() {
   return 'Hey!';
 }
+
+function sayHeyFriend() {
+  let friend;
+  return sayHey() + `${friend}`;
+}
